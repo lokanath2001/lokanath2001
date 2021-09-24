@@ -1,0 +1,5 @@
+#adding two numbers
+a=int(input("first number")
+b=int(input("second number")
+d=a+b
+print (d)
